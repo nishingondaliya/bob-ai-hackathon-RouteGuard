@@ -11,7 +11,7 @@
 | **Team Name** | [Route Guard] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
 | **Team Lead** | [Nishi Gondaliya] — [26ce027@charusat.edu.in] |
-| **Members** | [Preksha Dave], [Shreni Shah], [Yahvi Paun] |
+| **Members** | [Preksha Dave], [Shreni Shah], [Yashvi Paun] |
 
 ---
 
