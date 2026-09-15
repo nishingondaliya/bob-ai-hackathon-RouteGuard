@@ -40,11 +40,11 @@ Give the user a simple AI-style copilot for quick operational questions]
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [🚨 Disruption Detection – Identifies disruptions affecting shipments.]
+- **Feature 2:** [🗺️ AI Route Optimization – Suggests alternative routes to avoid delays.]
+- **Feature 3:** [🚛 Fleet Optimization – Detects idle vehicles and recommends redeployment.]
+- **Feature 4:** [🌡️ Cold-Chain Monitoring – Detects temperature excursions in sensitive shipments.]
+- **Feature 5:** [📊 Shipment Risk Score – Gives each shipment a risk level based on multiple factors.]
 
 ---
 
