@@ -115,14 +115,14 @@ cp .env.example .env
 
 > Be honest — judges appreciate transparency over overclaiming.
 
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- [Limitation 1:Dependence on Data – Accuracy depends on the quality and availability of shipment, fleet, disruption, and sensor data.]
+- [Limitation 2:Simulated Data – The prototype may use simulated data instead of real-time logistics and IoT data.]
+- [Limitation 3:AI Recommendation Reliability – AI recommendations may not always be accurate, so human approval is required before taking critical actions.]
 
 ---
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+[We are proud of building an integrated AI solution that brings disruption detection, route optimization, fleet utilization, and cold-chain monitoring together in one platform. It transforms complex supply-chain data into clear, actionable recommendations that can help prevent delays and cargo losses.]
 
 ---
