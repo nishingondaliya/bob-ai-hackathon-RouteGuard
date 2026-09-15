@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [Route Guard] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Nishi Gondaliya] — [26ce027@charusat.edu.in] |
+| **Members** | [Preksha Dave], [Shreni Shah], [Yahvi Paun] |
 
 ---
 
@@ -19,7 +19,9 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Supply-chain disruptions such as weather events, port strikes and geopolitical crises can affect many shipments simultaneously. At the same time, some trucks, containers or vessels remain idle while other routes are overloaded.
+
+For cold-chain shipments, temperature excursions can spoil valuable cargo, and the problem statement specifically asks for detection and classification of these excursions before delivery.]
 
 ---
 
@@ -27,7 +29,12 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[A single dashboard to turn disruption data into practical actions.
+Identify shipments affected by a disruption.
+Recommend a next action such as rerouting or checking an alternative carrier.
+Find idle fleet assets that could be redeployed.
+Monitor cold-chain sensor logs and flag temperature risk.
+Give the user a simple AI-style copilot for quick operational questions]
 
 ---
 
@@ -47,7 +54,7 @@
 |---|---|
 | **Languages** | [e.g., Python, TypeScript] |
 | **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
+| **IBM Technologies** | [ IBM Bob, IBM Cloud] |
 | **Databases** | [e.g., PostgreSQL, Redis] |
 | **Other** | [e.g., Docker, GitHub Actions] |
 
